@@ -1,0 +1,12 @@
+C:\Projetos\MediatorApi\mediator.dbo\bin\Debug\net5.0\mediator.dbo.deps.json
+C:\Projetos\MediatorApi\mediator.dbo\bin\Debug\net5.0\mediator.dbo.dll
+C:\Projetos\MediatorApi\mediator.dbo\bin\Debug\net5.0\ref\mediator.dbo.dll
+C:\Projetos\MediatorApi\mediator.dbo\bin\Debug\net5.0\mediator.dbo.pdb
+C:\Projetos\MediatorApi\mediator.dbo\obj\Debug\net5.0\mediator.dbo.csprojAssemblyReference.cache
+C:\Projetos\MediatorApi\mediator.dbo\obj\Debug\net5.0\mediator.dbo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\MediatorApi\mediator.dbo\obj\Debug\net5.0\mediator.dbo.AssemblyInfoInputs.cache
+C:\Projetos\MediatorApi\mediator.dbo\obj\Debug\net5.0\mediator.dbo.AssemblyInfo.cs
+C:\Projetos\MediatorApi\mediator.dbo\obj\Debug\net5.0\mediator.dbo.csproj.CoreCompileInputs.cache
+C:\Projetos\MediatorApi\mediator.dbo\obj\Debug\net5.0\mediator.dbo.dll
+C:\Projetos\MediatorApi\mediator.dbo\obj\Debug\net5.0\ref\mediator.dbo.dll
+C:\Projetos\MediatorApi\mediator.dbo\obj\Debug\net5.0\mediator.dbo.pdb

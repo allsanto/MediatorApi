@@ -1,0 +1,17 @@
+C:\Projetos\MediatorApi\mediator.application\obj\Debug\net5.0\mediator.application.csprojAssemblyReference.cache
+C:\Projetos\MediatorApi\mediator.application\obj\Debug\net5.0\mediator.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\MediatorApi\mediator.application\obj\Debug\net5.0\mediator.application.AssemblyInfoInputs.cache
+C:\Projetos\MediatorApi\mediator.application\obj\Debug\net5.0\mediator.application.AssemblyInfo.cs
+C:\Projetos\MediatorApi\mediator.application\obj\Debug\net5.0\mediator.application.csproj.CoreCompileInputs.cache
+C:\Projetos\MediatorApi\mediator.application\bin\Debug\net5.0\mediator.application.deps.json
+C:\Projetos\MediatorApi\mediator.application\bin\Debug\net5.0\mediator.application.dll
+C:\Projetos\MediatorApi\mediator.application\bin\Debug\net5.0\ref\mediator.application.dll
+C:\Projetos\MediatorApi\mediator.application\bin\Debug\net5.0\mediator.application.pdb
+C:\Projetos\MediatorApi\mediator.application\bin\Debug\net5.0\mediator.dbo.dll
+C:\Projetos\MediatorApi\mediator.application\bin\Debug\net5.0\mediator.repositoy.dll
+C:\Projetos\MediatorApi\mediator.application\bin\Debug\net5.0\mediator.dbo.pdb
+C:\Projetos\MediatorApi\mediator.application\bin\Debug\net5.0\mediator.repositoy.pdb
+C:\Projetos\MediatorApi\mediator.application\obj\Debug\net5.0\mediator.application.csproj.CopyComplete
+C:\Projetos\MediatorApi\mediator.application\obj\Debug\net5.0\mediator.application.dll
+C:\Projetos\MediatorApi\mediator.application\obj\Debug\net5.0\ref\mediator.application.dll
+C:\Projetos\MediatorApi\mediator.application\obj\Debug\net5.0\mediator.application.pdb
